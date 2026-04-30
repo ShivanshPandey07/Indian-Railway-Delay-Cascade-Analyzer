@@ -1,0 +1,595 @@
+train_name,source,destination,season,year,initial_delay,hop_number,predicted_delay,distance_km
+Begampura Express,Varanasi,Jammu,Winter,2016,75.0,0,75.13,1260
+Begampura Express,Varanasi,Jammu,Winter,2016,75.0,1,61.91,1260
+Begampura Express,Varanasi,Jammu,Winter,2016,75.0,2,49.16,1260
+Begampura Express,Varanasi,Jammu,Winter,2016,75.0,3,38.58,1260
+Begampura Express,Varanasi,Jammu,Winter,2016,75.0,4,30.91,1260
+Begampura Express,Varanasi,Jammu,Winter,2016,75.0,5,24.71,1260
+Begampura Express,Varanasi,Jammu,Winter,2017,20.0,0,19.96,1260
+Begampura Express,Varanasi,Jammu,Winter,2017,20.0,1,15.95,1260
+Begampura Express,Varanasi,Jammu,Winter,2017,20.0,2,12.83,1260
+Begampura Express,Varanasi,Jammu,Winter,2017,20.0,3,10.16,1260
+Begampura Express,Varanasi,Jammu,Winter,2017,20.0,4,8.14,1260
+Begampura Express,Varanasi,Jammu,Winter,2017,20.0,5,6.49,1260
+Begampura Express,Varanasi,Jammu,Winter,2018,90.0,0,75.06,1260
+Begampura Express,Varanasi,Jammu,Winter,2018,90.0,1,62.09,1260
+Begampura Express,Varanasi,Jammu,Winter,2018,90.0,2,49.29,1260
+Begampura Express,Varanasi,Jammu,Winter,2018,90.0,3,38.72,1260
+Begampura Express,Varanasi,Jammu,Winter,2018,90.0,4,31.03,1260
+Begampura Express,Varanasi,Jammu,Winter,2018,90.0,5,24.91,1260
+Begampura Express,Varanasi,Jammu,Winter,2019,10.0,0,10.09,1260
+Begampura Express,Varanasi,Jammu,Winter,2019,10.0,1,8.21,1260
+Begampura Express,Varanasi,Jammu,Winter,2019,10.0,2,6.65,1260
+Begampura Express,Varanasi,Jammu,Winter,2019,10.0,3,4.98,1260
+Begampura Express,Varanasi,Jammu,Winter,2019,10.0,4,4.03,1260
+Begampura Express,Varanasi,Jammu,Winter,2019,10.0,5,3.27,1260
+Begampura Express,Varanasi,Jammu,Winter,2020,30.0,0,30.03,1260
+Begampura Express,Varanasi,Jammu,Winter,2020,30.0,1,25.39,1260
+Begampura Express,Varanasi,Jammu,Winter,2020,30.0,2,19.01,1260
+Begampura Express,Varanasi,Jammu,Winter,2020,30.0,3,15.44,1260
+Begampura Express,Varanasi,Jammu,Winter,2020,30.0,4,12.2,1260
+Begampura Express,Varanasi,Jammu,Winter,2020,30.0,5,9.83,1260
+Begampura Express,Varanasi,Jammu,Winter,2021,5.0,0,5.11,1260
+Begampura Express,Varanasi,Jammu,Winter,2021,5.0,1,4.3,1260
+Begampura Express,Varanasi,Jammu,Winter,2021,5.0,2,3.58,1260
+Begampura Express,Varanasi,Jammu,Winter,2021,5.0,3,2.69,1260
+Begampura Express,Varanasi,Jammu,Winter,2021,5.0,4,1.97,1260
+Begampura Express,Varanasi,Jammu,Winter,2021,5.0,5,1.57,1260
+Begampura Express,Varanasi,Jammu,Winter,2022,40.0,0,38.1,1260
+Begampura Express,Varanasi,Jammu,Winter,2022,40.0,1,31.39,1260
+Begampura Express,Varanasi,Jammu,Winter,2022,40.0,2,25.2,1260
+Begampura Express,Varanasi,Jammu,Winter,2022,40.0,3,20.75,1260
+Begampura Express,Varanasi,Jammu,Winter,2022,40.0,4,16.47,1260
+Begampura Express,Varanasi,Jammu,Winter,2022,40.0,5,12.87,1260
+Begampura Express,Varanasi,Jammu,Winter,2023,90.0,0,75.06,1260
+Begampura Express,Varanasi,Jammu,Winter,2023,90.0,1,62.38,1260
+Begampura Express,Varanasi,Jammu,Winter,2023,90.0,2,49.11,1260
+Begampura Express,Varanasi,Jammu,Winter,2023,90.0,3,38.93,1260
+Begampura Express,Varanasi,Jammu,Winter,2023,90.0,4,31.16,1260
+Begampura Express,Varanasi,Jammu,Winter,2023,90.0,5,25.0,1260
+Begampura Express,Varanasi,Jammu,Winter,2024,15.0,0,14.97,1260
+Begampura Express,Varanasi,Jammu,Winter,2024,15.0,1,12.1,1260
+Begampura Express,Varanasi,Jammu,Winter,2024,15.0,2,9.36,1260
+Begampura Express,Varanasi,Jammu,Winter,2024,15.0,3,7.9,1260
+Begampura Express,Varanasi,Jammu,Winter,2024,15.0,4,6.39,1260
+Begampura Express,Varanasi,Jammu,Winter,2024,15.0,5,5.11,1260
+Begampura Express,Varanasi,Jammu,Winter,2025,50.0,0,50.0,1260
+Begampura Express,Varanasi,Jammu,Winter,2025,50.0,1,39.76,1260
+Begampura Express,Varanasi,Jammu,Winter,2025,50.0,2,31.95,1260
+Begampura Express,Varanasi,Jammu,Winter,2025,50.0,3,24.96,1260
+Begampura Express,Varanasi,Jammu,Winter,2025,50.0,4,20.28,1260
+Begampura Express,Varanasi,Jammu,Winter,2025,50.0,5,16.37,1260
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2016,80.0,0,75.25,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2016,80.0,1,62.11,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2016,80.0,2,49.59,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2016,80.0,3,38.49,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2016,80.0,4,30.73,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2016,80.0,5,24.54,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2017,45.0,0,45.15,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2017,45.0,1,35.86,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2017,45.0,2,28.83,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2017,45.0,3,22.62,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2017,45.0,4,18.46,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2017,45.0,5,14.64,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2018,30.0,0,29.89,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2018,30.0,1,25.31,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2018,30.0,2,18.9,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2018,30.0,3,15.33,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2018,30.0,4,12.19,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2018,30.0,5,9.83,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2019,10.0,0,10.04,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2019,10.0,1,8.22,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2019,10.0,2,6.67,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2019,10.0,3,4.99,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2019,10.0,4,4.04,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2019,10.0,5,3.26,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2020,20.0,0,19.98,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2020,20.0,1,15.99,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2020,20.0,2,12.85,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2020,20.0,3,10.17,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2020,20.0,4,8.16,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2020,20.0,5,6.47,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2021,10.0,0,10.06,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2021,10.0,1,8.22,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2021,10.0,2,6.79,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2021,10.0,3,5.1,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2021,10.0,4,4.06,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2021,10.0,5,3.26,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2022,120.0,0,99.95,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2022,120.0,1,93.38,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2022,120.0,2,77.84,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2022,120.0,3,53.57,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2022,120.0,4,35.52,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2022,120.0,5,29.79,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2023,60.0,0,59.72,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2023,60.0,1,47.93,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2023,60.0,2,38.56,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2023,60.0,3,30.9,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2023,60.0,4,24.64,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2023,60.0,5,19.71,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2024,35.0,0,34.09,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2024,35.0,1,27.81,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2024,35.0,2,22.7,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2024,35.0,3,17.75,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2024,35.0,4,14.33,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2024,35.0,5,11.56,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2025,75.0,0,75.3,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2025,75.0,1,62.61,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2025,75.0,2,49.57,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2025,75.0,3,38.72,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2025,75.0,4,30.97,1754
+Gorakhpur-pune Weekly Express,Gorakhpur,Pune,Winter,2025,75.0,5,24.77,1754
+Rajdhani Express ,Howrah, New Delhi,Winter,2016,20.0,0,19.95,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2016,20.0,1,15.96,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2016,20.0,2,12.82,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2016,20.0,3,10.17,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2016,20.0,4,8.15,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2016,20.0,5,6.48,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2017,40.0,0,38.46,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2017,40.0,1,31.48,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2017,40.0,2,25.11,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2017,40.0,3,20.63,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2017,40.0,4,16.4,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2017,40.0,5,12.91,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2018,70.0,0,69.69,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2018,70.0,1,57.01,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2018,70.0,2,45.53,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2018,70.0,3,36.45,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2018,70.0,4,28.93,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2018,70.0,5,23.24,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2019,5.0,0,4.95,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2019,5.0,1,4.18,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2019,5.0,2,3.44,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2019,5.0,3,2.56,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2019,5.0,4,1.93,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2019,5.0,5,1.57,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2020,30.0,0,29.99,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2020,30.0,1,25.38,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2020,30.0,2,18.98,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2020,30.0,3,15.39,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2020,30.0,4,12.23,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2020,30.0,5,9.84,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2021,50.0,0,49.96,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2021,50.0,1,39.78,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2021,50.0,2,32.11,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2021,50.0,3,25.33,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2021,50.0,4,20.42,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2021,50.0,5,16.48,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2022,75.0,0,75.38,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2022,75.0,1,62.56,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2022,75.0,2,49.71,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2022,75.0,3,38.8,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2022,75.0,4,31.0,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2022,75.0,5,24.82,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2023,10.0,0,10.03,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2023,10.0,1,8.21,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2023,10.0,2,6.78,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2023,10.0,3,5.07,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2023,10.0,4,4.05,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2023,10.0,5,3.25,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2024,60.0,0,59.73,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2024,60.0,1,47.92,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2024,60.0,2,38.53,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2024,60.0,3,30.84,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2024,60.0,4,24.61,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2024,60.0,5,19.69,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2025,25.0,0,24.86,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2025,25.0,1,20.02,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2025,25.0,2,15.95,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2025,25.0,3,12.72,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2025,25.0,4,10.21,1450
+Rajdhani Express ,Howrah, New Delhi,Winter,2025,25.0,5,8.16,1450
+Chennai Express,Mumbai,Chennai ,Winter,2016,20.0,0,19.94,1284
+Chennai Express,Mumbai,Chennai ,Winter,2016,20.0,1,15.97,1284
+Chennai Express,Mumbai,Chennai ,Winter,2016,20.0,2,12.84,1284
+Chennai Express,Mumbai,Chennai ,Winter,2016,20.0,3,10.19,1284
+Chennai Express,Mumbai,Chennai ,Winter,2016,20.0,4,8.17,1284
+Chennai Express,Mumbai,Chennai ,Winter,2016,20.0,5,6.5,1284
+Chennai Express,Mumbai,Chennai ,Winter,2017,45.0,0,45.03,1284
+Chennai Express,Mumbai,Chennai ,Winter,2017,45.0,1,35.86,1284
+Chennai Express,Mumbai,Chennai ,Winter,2017,45.0,2,28.85,1284
+Chennai Express,Mumbai,Chennai ,Winter,2017,45.0,3,22.67,1284
+Chennai Express,Mumbai,Chennai ,Winter,2017,45.0,4,18.44,1284
+Chennai Express,Mumbai,Chennai ,Winter,2017,45.0,5,14.62,1284
+Chennai Express,Mumbai,Chennai ,Winter,2018,10.0,0,10.03,1284
+Chennai Express,Mumbai,Chennai ,Winter,2018,10.0,1,8.2,1284
+Chennai Express,Mumbai,Chennai ,Winter,2018,10.0,2,6.66,1284
+Chennai Express,Mumbai,Chennai ,Winter,2018,10.0,3,5.0,1284
+Chennai Express,Mumbai,Chennai ,Winter,2018,10.0,4,4.07,1284
+Chennai Express,Mumbai,Chennai ,Winter,2018,10.0,5,3.29,1284
+Chennai Express,Mumbai,Chennai ,Winter,2019,25.0,0,24.99,1284
+Chennai Express,Mumbai,Chennai ,Winter,2019,25.0,1,20.1,1284
+Chennai Express,Mumbai,Chennai ,Winter,2019,25.0,2,15.95,1284
+Chennai Express,Mumbai,Chennai ,Winter,2019,25.0,3,12.81,1284
+Chennai Express,Mumbai,Chennai ,Winter,2019,25.0,4,10.22,1284
+Chennai Express,Mumbai,Chennai ,Winter,2019,25.0,5,8.2,1284
+Chennai Express,Mumbai,Chennai ,Winter,2020,50.0,0,50.01,1284
+Chennai Express,Mumbai,Chennai ,Winter,2020,50.0,1,39.81,1284
+Chennai Express,Mumbai,Chennai ,Winter,2020,50.0,2,32.16,1284
+Chennai Express,Mumbai,Chennai ,Winter,2020,50.0,3,25.42,1284
+Chennai Express,Mumbai,Chennai ,Winter,2020,50.0,4,20.4,1284
+Chennai Express,Mumbai,Chennai ,Winter,2020,50.0,5,16.48,1284
+Chennai Express,Mumbai,Chennai ,Winter,2021,30.0,0,30.01,1284
+Chennai Express,Mumbai,Chennai ,Winter,2021,30.0,1,25.36,1284
+Chennai Express,Mumbai,Chennai ,Winter,2021,30.0,2,18.98,1284
+Chennai Express,Mumbai,Chennai ,Winter,2021,30.0,3,15.38,1284
+Chennai Express,Mumbai,Chennai ,Winter,2021,30.0,4,12.23,1284
+Chennai Express,Mumbai,Chennai ,Winter,2021,30.0,5,9.84,1284
+Chennai Express,Mumbai,Chennai ,Winter,2022,75.0,0,75.13,1284
+Chennai Express,Mumbai,Chennai ,Winter,2022,75.0,1,62.3,1284
+Chennai Express,Mumbai,Chennai ,Winter,2022,75.0,2,49.14,1284
+Chennai Express,Mumbai,Chennai ,Winter,2022,75.0,3,38.91,1284
+Chennai Express,Mumbai,Chennai ,Winter,2022,75.0,4,31.22,1284
+Chennai Express,Mumbai,Chennai ,Winter,2022,75.0,5,24.99,1284
+Chennai Express,Mumbai,Chennai ,Winter,2023,75.0,0,75.02,1284
+Chennai Express,Mumbai,Chennai ,Winter,2023,75.0,1,62.33,1284
+Chennai Express,Mumbai,Chennai ,Winter,2023,75.0,2,49.04,1284
+Chennai Express,Mumbai,Chennai ,Winter,2023,75.0,3,38.89,1284
+Chennai Express,Mumbai,Chennai ,Winter,2023,75.0,4,31.19,1284
+Chennai Express,Mumbai,Chennai ,Winter,2023,75.0,5,24.96,1284
+Chennai Express,Mumbai,Chennai ,Winter,2024,5.0,0,5.03,1284
+Chennai Express,Mumbai,Chennai ,Winter,2024,5.0,1,4.25,1284
+Chennai Express,Mumbai,Chennai ,Winter,2024,5.0,2,3.55,1284
+Chennai Express,Mumbai,Chennai ,Winter,2024,5.0,3,2.63,1284
+Chennai Express,Mumbai,Chennai ,Winter,2024,5.0,4,1.93,1284
+Chennai Express,Mumbai,Chennai ,Winter,2024,5.0,5,1.56,1284
+Chennai Express,Mumbai,Chennai ,Winter,2025,40.0,0,38.02,1284
+Chennai Express,Mumbai,Chennai ,Winter,2025,40.0,1,31.31,1284
+Chennai Express,Mumbai,Chennai ,Winter,2025,40.0,2,25.01,1284
+Chennai Express,Mumbai,Chennai ,Winter,2025,40.0,3,20.36,1284
+Chennai Express,Mumbai,Chennai ,Winter,2025,40.0,4,16.53,1284
+Chennai Express,Mumbai,Chennai ,Winter,2025,40.0,5,12.91,1284
+Garib Rath Express, Kolkata, New Delhi,Winter,2016,20.0,0,19.97,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2016,20.0,1,15.96,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2016,20.0,2,12.83,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2016,20.0,3,10.18,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2016,20.0,4,8.16,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2016,20.0,5,6.48,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2017,60.0,0,59.97,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2017,60.0,1,47.71,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2017,60.0,2,38.42,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2017,60.0,3,30.92,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2017,60.0,4,24.5,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2017,60.0,5,19.68,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2018,5.0,0,4.95,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2018,5.0,1,4.17,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2018,5.0,2,3.44,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2018,5.0,3,2.57,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2018,5.0,4,1.96,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2018,5.0,5,1.59,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2019,10.0,0,10.05,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2019,10.0,1,8.2,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2019,10.0,2,6.65,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2019,10.0,3,4.97,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2019,10.0,4,4.03,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2019,10.0,5,3.27,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2020,20.0,0,19.99,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2020,20.0,1,15.97,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2020,20.0,2,12.84,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2020,20.0,3,10.16,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2020,20.0,4,8.16,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2020,20.0,5,6.48,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2021,23.0,0,23.08,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2021,23.0,1,18.35,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2021,23.0,2,14.74,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2021,23.0,3,11.79,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2021,23.0,4,9.43,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2021,23.0,5,7.56,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2022,11.0,0,10.94,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2022,11.0,1,9.36,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2022,11.0,2,8.2,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2022,11.0,3,5.42,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2022,11.0,4,4.42,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2022,11.0,5,3.52,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2023,0.0,0,1.14,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2023,0.0,1,1.25,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2023,0.0,2,1.97,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2023,0.0,3,1.61,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2023,0.0,4,1.32,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2023,0.0,5,1.03,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2024,100.0,0,99.86,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2024,100.0,1,93.36,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2024,100.0,2,77.13,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2024,100.0,3,53.58,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2024,100.0,4,35.54,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2024,100.0,5,29.79,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2025,25.0,0,24.86,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2025,25.0,1,20.0,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2025,25.0,2,15.94,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2025,25.0,3,12.73,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2025,25.0,4,10.21,1318
+Garib Rath Express, Kolkata, New Delhi,Winter,2025,25.0,5,8.15,1318
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2016,10.0,0,10.09,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2016,10.0,1,8.21,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2016,10.0,2,6.67,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2016,10.0,3,5.02,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2016,10.0,4,4.06,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2016,10.0,5,3.29,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2017,70.0,0,69.99,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2017,70.0,1,56.82,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2017,70.0,2,45.31,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2017,70.0,3,36.11,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2017,70.0,4,28.68,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2017,70.0,5,23.01,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2018,130.0,0,130.16,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2018,130.0,1,104.3,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2018,130.0,2,83.2,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2018,130.0,3,57.05,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2018,130.0,4,38.98,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2018,130.0,5,34.54,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2019,25.0,0,25.02,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2019,25.0,1,20.12,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2019,25.0,2,15.96,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2019,25.0,3,12.82,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2019,25.0,4,10.19,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2019,25.0,5,8.21,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2020,5.0,0,5.01,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2020,5.0,1,4.19,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2020,5.0,2,3.44,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2020,5.0,3,2.55,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2020,5.0,4,1.96,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2020,5.0,5,1.59,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2021,45.0,0,44.94,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2021,45.0,1,36.03,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2021,45.0,2,29.07,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2021,45.0,3,22.9,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2021,45.0,4,18.54,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2021,45.0,5,14.67,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2022,15.0,0,15.04,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2022,15.0,1,12.15,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2022,15.0,2,9.43,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2022,15.0,3,7.98,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2022,15.0,4,6.42,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2022,15.0,5,5.16,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2023,60.0,0,59.82,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2023,60.0,1,47.89,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2023,60.0,2,38.48,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2023,60.0,3,30.86,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2023,60.0,4,24.54,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2023,60.0,5,19.71,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2024,20.0,0,19.98,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2024,20.0,1,15.95,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2024,20.0,2,12.82,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2024,20.0,3,10.1,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2024,20.0,4,8.12,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2024,20.0,5,6.46,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2025,9.0,0,9.26,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2025,9.0,1,7.34,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2025,9.0,2,6.04,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2025,9.0,3,4.61,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2025,9.0,4,3.59,707
+Shatabdi Express, New Delhi,RANI KAMLAPATI ,Winter,2025,9.0,5,2.9,707
+Lucknow Mail,Lucknow, New Delhi,Winter,2016,1.0,0,1.03,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2016,1.0,1,1.13,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2016,1.0,2,1.91,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2016,1.0,3,1.6,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2016,1.0,4,1.4,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2016,1.0,5,1.1,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2017,14.0,0,13.95,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2017,14.0,1,11.62,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2017,14.0,2,9.35,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2017,14.0,3,6.77,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2017,14.0,4,5.55,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2017,14.0,5,4.52,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2018,45.0,0,44.97,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2018,45.0,1,35.88,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2018,45.0,2,28.93,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2018,45.0,3,22.74,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2018,45.0,4,18.41,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2018,45.0,5,14.67,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2019,70.0,0,69.94,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2019,70.0,1,56.99,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2019,70.0,2,45.38,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2019,70.0,3,36.39,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2019,70.0,4,28.87,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2019,70.0,5,23.26,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2020,5.0,0,4.99,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2020,5.0,1,4.15,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2020,5.0,2,3.49,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2020,5.0,3,2.61,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2020,5.0,4,2.02,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2020,5.0,5,1.62,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2021,23.0,0,23.06,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2021,23.0,1,18.32,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2021,23.0,2,14.7,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2021,23.0,3,11.78,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2021,23.0,4,9.38,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2021,23.0,5,7.55,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2022,14.0,0,13.98,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2022,14.0,1,11.63,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2022,14.0,2,9.5,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2022,14.0,3,6.9,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2022,14.0,4,5.59,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2022,14.0,5,4.55,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2023,29.0,0,28.98,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2023,29.0,1,24.25,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2023,29.0,2,18.33,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2023,29.0,3,15.15,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2023,29.0,4,12.04,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2023,29.0,5,9.5,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2024,20.0,0,19.99,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2024,20.0,1,15.96,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2024,20.0,2,12.86,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2024,20.0,3,10.14,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2024,20.0,4,8.14,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2024,20.0,5,6.46,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2025,34.0,0,33.91,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2025,34.0,1,27.4,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2025,34.0,2,22.6,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2025,34.0,3,17.61,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2025,34.0,4,13.71,491
+Lucknow Mail,Lucknow, New Delhi,Winter,2025,34.0,5,10.99,491
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2016,0.0,0,1.04,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2016,0.0,1,1.15,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2016,0.0,2,1.85,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2016,0.0,3,1.51,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2016,0.0,4,1.32,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2016,0.0,5,1.05,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2017,20.0,0,19.96,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2017,20.0,1,15.95,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2017,20.0,2,12.83,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2017,20.0,3,10.16,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2017,20.0,4,8.14,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2017,20.0,5,6.49,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2018,40.0,0,38.11,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2018,40.0,1,31.4,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2018,40.0,2,25.12,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2018,40.0,3,20.71,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2018,40.0,4,16.39,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2018,40.0,5,12.89,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2019,3.0,0,3.06,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2019,3.0,1,2.55,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2019,3.0,2,2.22,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2019,3.0,3,1.77,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2019,3.0,4,1.47,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2019,3.0,5,1.17,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2020,5.0,0,5.0,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2020,5.0,1,4.19,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2020,5.0,2,3.44,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2020,5.0,3,2.56,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2020,5.0,4,1.96,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2020,5.0,5,1.58,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2021,55.0,0,54.96,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2021,55.0,1,43.94,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2021,55.0,2,35.14,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2021,55.0,3,28.05,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2021,55.0,4,22.97,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2021,55.0,5,17.98,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2022,45.0,0,44.93,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2022,45.0,1,35.93,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2022,45.0,2,28.98,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2022,45.0,3,22.84,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2022,45.0,4,18.54,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2022,45.0,5,14.6,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2023,65.0,0,65.09,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2023,65.0,1,52.86,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2023,65.0,2,41.38,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2023,65.0,3,35.34,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2023,65.0,4,27.48,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2023,65.0,5,21.63,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2024,0.0,0,1.16,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2024,0.0,1,1.27,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2024,0.0,2,1.98,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2024,0.0,3,1.6,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2024,0.0,4,1.31,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2024,0.0,5,1.03,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2025,39.0,0,36.75,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2025,39.0,1,31.03,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2025,39.0,2,24.48,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2025,39.0,3,19.74,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2025,39.0,4,15.97,742
+Kanyakumari Express,Chennai Egmore,Kanyakumari,Winter,2025,39.0,5,12.54,742
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2016,30.0,0,30.01,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2016,30.0,1,25.27,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2016,30.0,2,18.84,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2016,30.0,3,15.29,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2016,30.0,4,12.15,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2016,30.0,5,9.8,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2017,9.0,0,9.09,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2017,9.0,1,7.18,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2017,9.0,2,5.88,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2017,9.0,3,4.51,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2017,9.0,4,3.59,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2017,9.0,5,2.91,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2018,14.0,0,13.92,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2018,14.0,1,11.58,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2018,14.0,2,9.0,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2018,14.0,3,6.31,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2018,14.0,4,5.33,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2018,14.0,5,4.36,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2020,1.0,0,1.06,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2020,1.0,1,1.19,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2020,1.0,2,1.86,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2020,1.0,3,1.53,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2020,1.0,4,1.33,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2020,1.0,5,1.05,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2021,0.0,0,1.18,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2021,0.0,1,1.32,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2021,0.0,2,1.99,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2021,0.0,3,1.66,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2021,0.0,4,1.34,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2021,0.0,5,1.05,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2022,20.0,0,20.01,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2022,20.0,1,16.02,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2022,20.0,2,12.88,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2022,20.0,3,10.17,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2022,20.0,4,8.17,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2022,20.0,5,6.5,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2023,244.0,0,130.14,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2023,244.0,1,104.31,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2023,244.0,2,83.29,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2023,244.0,3,57.07,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2023,244.0,4,39.01,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2023,244.0,5,34.4,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2024,188.0,0,130.13,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2024,188.0,1,104.29,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2024,188.0,2,83.22,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2024,188.0,3,57.0,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2024,188.0,4,38.99,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2024,188.0,5,34.38,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2025,60.0,0,59.79,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2025,60.0,1,48.0,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2025,60.0,2,38.4,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2025,60.0,3,30.62,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2025,60.0,4,24.65,1915
+Yesvantpur–Howrah Express,Yesvantpur Jn,Howrah,Winter,2025,60.0,5,19.72,1915
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2016,5.0,0,5.01,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2016,5.0,1,4.17,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2016,5.0,2,3.44,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2016,5.0,3,2.57,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2016,5.0,4,1.95,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2016,5.0,5,1.56,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2017,35.0,0,34.13,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2017,35.0,1,27.78,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2017,35.0,2,22.45,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2017,35.0,3,17.56,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2017,35.0,4,14.28,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2017,35.0,5,11.56,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2018,63.0,0,61.47,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2018,63.0,1,49.83,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2018,63.0,2,40.3,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2018,63.0,3,33.79,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2018,63.0,4,27.16,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2018,63.0,5,20.95,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2019,15.0,0,14.96,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2019,15.0,1,12.13,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2019,15.0,2,9.2,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2019,15.0,3,7.78,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2019,15.0,4,6.34,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2019,15.0,5,5.07,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2020,22.0,0,22.44,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2020,22.0,1,17.23,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2020,22.0,2,14.14,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2020,22.0,3,11.2,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2020,22.0,4,8.8,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2020,22.0,5,6.71,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2021,0.0,0,1.2,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2021,0.0,1,1.31,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2021,0.0,2,2.0,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2021,0.0,3,1.66,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2021,0.0,4,1.34,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2021,0.0,5,1.05,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2022,1.0,0,1.24,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2022,1.0,1,1.35,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2022,1.0,2,2.04,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2022,1.0,3,1.69,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2022,1.0,4,1.37,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2022,1.0,5,1.07,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2023,9.0,0,9.25,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2023,9.0,1,7.33,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2023,9.0,2,6.02,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2023,9.0,3,4.61,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2023,9.0,4,3.59,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2023,9.0,5,2.87,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2024,23.0,0,23.01,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2024,23.0,1,18.35,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2024,23.0,2,14.72,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2024,23.0,3,11.78,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2024,23.0,4,9.42,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2024,23.0,5,7.56,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2025,31.0,0,31.2,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2025,31.0,1,27.17,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2025,31.0,2,21.64,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2025,31.0,3,16.02,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2025,31.0,4,12.52,4198
+Vivek Express,Dibrugarh,Kanyakumari,Winter,2025,31.0,5,10.05,4198

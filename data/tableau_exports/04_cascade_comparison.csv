@@ -1,0 +1,6 @@
+station_code,station_name,stations_affected,total_delay_generated,max_downstream_delay,trains_impacted
+HWH,Howrah Junction,2914,69181.0,60.0,28598
+LTT,Lokmanya Tilak Term,2563,59969.0,60.0,25310
+YPR,Yesvantpur Junction,2327,54294.0,60.0,23536
+GHY,Guwahati,2153,50410.0,60.0,21729
+NZM,Delhi H Nizamuddin,2190,49810.0,60.0,22559
