@@ -4,7 +4,7 @@
 A data analytics project that models how a single train delay at one station 
 cascades through India's entire railway network of 8,990 stations and 5,208 trains. 
 Built using real Indian Railways data combining network graph analysis, 
-cascade propagation simulation, and ML-based delay prediction.
+cascade propagation simulation and ML-based delay prediction.
 
 ## 🔴 Live Dashboard
 🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/shivansh.pandey1813/viz/IndianRailwayDelayCascadeAnalyzer/Dashboard1)
